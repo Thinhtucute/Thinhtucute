@@ -2,9 +2,9 @@
  
 ## 💻Tech:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
 ![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=openjdk)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS](https://img.shields.io/badge/-CSS-663399?logo=css&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
